@@ -1,0 +1,22 @@
+===========================
+profiles/n01to20-l0-m0-gn21
+===========================
+
+INITIALIZATION
+      1.103  C:\projects\Python\quantum\wvfunc_gen.py:31(generate)
+
+
+LOOP
+      2.690  C:\projects\Python\quantum\quantum.py:218(facescalars)
+      6.178  C:\projects\Python\quantum\quantum.py:99(calculate)
+           5.158   C:\projects\Python\quantum\wvfunc_gen.py:226(radial)
+           1.828   C:\projects\Python\quantum\wvfunc_gen.py:284(harmonic)
+           0.917    C:\projects\Python\quantum\quantum.py:33(sphericals)
+           missing 1s?
+
+      1.427  C:\projects\Python\quantum\quantum.py:319(smartscale)
+      0.754  C:\Python\Python37\lib\site-packages\mpl_toolkits\mplot3d\axes3d.py:1919(plot_trisurf)
+
+      6.250  C:\Python\Python37\lib\site-packages\matplotlib\pyplot.py:719(savefig)
+
+      20.328
